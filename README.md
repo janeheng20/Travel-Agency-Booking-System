@@ -1,9 +1,5 @@
 # Cuti-Cuti Malaysia
 
-## Introduction
-
-**Cuti-Cuti Malaysia** is a simple interactive hotel booking program developed as part of a project to showcase a basic travel website concept. The program allows users to explore and book hotels in Malaysia, based on their travel destination. Through the user-friendly interface, travelers can select hotels, check out hotel details such as features, prices, and reviews, and choose the type of accommodation they prefer. The program is designed to make booking a hotel easier and more enjoyable by presenting information about various hotels in popular Malaysian tourist destinations.
-
 ## Project Overview
 
 The goal of the **Cuti-Cuti Malaysia** project is to provide users with an interactive hotel selection process. The program simulates a basic hotel booking system with destinations like Melaka, Langkawi, and Kuala Lumpur. For each destination, the user can browse a list of hotels, view their details, check the prices, and read reviews. The program allows users to make informed decisions about where to stay during their trip in Malaysia.
@@ -29,10 +25,4 @@ The goal of the **Cuti-Cuti Malaysia** project is to provide users with an inter
 5. **Choose Your Hotel**: Select your preferred hotel and proceed to review the details.
 6. **Make Your Booking**: Confirm your selection and simulate your booking process (for demonstration purposes).
 
-  
-## Conclusion
-
-This project, **Cuti-Cuti Malaysia**, provides a fun and interactive way for users to explore hotel options in Malaysia. It is designed for educational purposes to demonstrate basic concepts of programming in C, including user interaction, data management, and flow control in an application.
-
-We hope you enjoy using the program and exploring the options it offers!
 
