@@ -1,4 +1,4 @@
-# 🌴 Cuti-Cuti Malaysia – Hotel Booking System
+# 🌴 Cuti-Cuti Malaysia – Travel Agency Booking System
 
 Welcome to **Cuti-Cuti Malaysia**, an interactive hotel booking system designed to help users explore and choose the best hotel options for their travels within Malaysia.
 
