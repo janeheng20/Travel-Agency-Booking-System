@@ -29,10 +29,6 @@ The goal of the **Cuti-Cuti Malaysia** project is to provide users with an inter
 5. **Choose Your Hotel**: Select your preferred hotel and proceed to review the details.
 6. **Make Your Booking**: Confirm your selection and simulate your booking process (for demonstration purposes).
 
-## Technologies Used
-
-- **C Programming Language**: The program is developed using the C language to implement core functionalities.
-- **Data Structures**: Arrays and strings are used to store hotel data, such as hotel names, features, and pricing.
   
 ## Conclusion
 
