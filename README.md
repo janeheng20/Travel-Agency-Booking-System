@@ -16,7 +16,7 @@ The goal of the **Cuti-Cuti Malaysia** project is to provide users with an inter
 - **Price Information**: Users can view the prices for different room types in each hotel, along with any additional amenities or services.
 
 
-## How to Use the Program
+## How to Use
 
 1. **Start the Program**: Launch the program to begin the interactive session.
 2. **Choose Your Package**: Choose pre-defined package or customize your own hotel booking.
