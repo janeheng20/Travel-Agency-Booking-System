@@ -15,11 +15,6 @@ The goal of the **Cuti-Cuti Malaysia** project is to provide users with an inter
 - **Hotel Ratings**: Each hotel includes a rating based on user reviews, giving an insight into the quality of the service.
 - **Price Information**: Users can view the prices for different room types in each hotel, along with any additional amenities or services.
 
-## Project Structure
-
-- **Destinations**: The project supports multiple destinations where users can choose their desired location for booking.
-- **Hotels**: Each destination has a list of hotels with details like the name, features, reviews, and prices for different room types.
-- **Interactive Process**: The user interacts with the system by selecting a destination, viewing hotel options, and reviewing the details to make their booking decision.
 
 ## How to Use the Program
 
