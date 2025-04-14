@@ -28,14 +28,6 @@ Currently, the system offers hotel information in the following travel hotspots:
   - Room pricing
 - 🧭 **Interactive Menu** – Simple and easy-to-use interface to help users navigate and choose
 
-## 👥 Who Can Use This?
-
-Anyone looking to explore hotel options in Malaysia! Perfect for:
-- Tourists
-- Local travelers
-- Travel planners
-- Students learning about programming or system interaction
-
 ## 🎯 Objective
 
 To provide a user-friendly hotel information platform that simplifies the decision-making process for Malaysian getaways — because everyone deserves an easy and enjoyable travel planning experience.
