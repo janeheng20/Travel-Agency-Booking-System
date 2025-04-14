@@ -24,14 +24,15 @@ The goal of the **Cuti-Cuti Malaysia** project is to provide users with an inter
 ## How to Use the Program
 
 1. **Start the Program**: Launch the program to begin the interactive session.
-2. **Select Destination**: Choose the destination you are interested in. Available options include Melaka, Langkawi, and Kuala Lumpur.
-3. **Browse Hotel Options**: Once you select a destination, browse through the list of available hotels. For each hotel, you can view:
+2. **Choose Your Package**: Choose pre-defined package or customize your own hotel booking.
+3. **Select Destination**: Choose the destination you are interested in. Available options include Melaka, Langkawi, and Kuala Lumpur.
+4. **Browse Hotel Options**: Once you select a destination, browse through the list of available hotels. For each hotel, you can view:
    - Hotel Name
    - Features and Amenities
    - Customer Ratings and Reviews
    - Room Prices for Different Types of Accommodation
-4. **Choose Your Hotel**: Select your preferred hotel and proceed to review the details.
-5. **Make Your Booking**: Confirm your selection and simulate your booking process (for demonstration purposes).
+5. **Choose Your Hotel**: Select your preferred hotel and proceed to review the details.
+6. **Make Your Booking**: Confirm your selection and simulate your booking process (for demonstration purposes).
 
 ## Technologies Used
 
